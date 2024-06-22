@@ -145,7 +145,7 @@ h2{
     display: flex;
     justify-content: center;
 }
-.container-fecha h2{
+.fecha{
     width: 30vw;
     height: 5vh;
     border: 3px solid #000;
