@@ -162,6 +162,9 @@ h2{
 }
 .gol{
     margin: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .title-video{
@@ -169,7 +172,19 @@ h2{
     padding: 2px;
 }
 /** estilos pagina faltas **/
-
+.foul-container{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.foul{
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 /** estilos footer **/
 .footer-container{
     width: auto;
