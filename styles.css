@@ -138,6 +138,37 @@ h2{
     border: 3px solid #fff;
     margin: 8%;
 }
+/** estilos pagina goles **/
+.container-fecha{
+    width: auto;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+}
+.container-fecha h2{
+    width: 30vw;
+    height: 5vh;
+    border: 3px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    background-color: var(--color-primario);
+}
+
+.gol-container{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.gol{
+    margin: 10px 0px;
+}
+
+.title-video{
+    text-align: center;
+    padding: 2px;
+}
+/** estilos pagina faltas **/
 
 /** estilos footer **/
 .footer-container{
@@ -168,6 +199,7 @@ h2{
 }
 .main-title{
     font-size: 1.7rem;
+    text-align: center;
 }
 .main-subtitle{
     color: #000;
