@@ -71,6 +71,12 @@ h2{
     text-align: center;
     margin: 2px;
 }
+.ganador{
+    background-color: rgb(17, 151, 17);
+}
+.perdedor{
+    background-color: rgb(205, 103, 103);
+}
 /** fechas **/
 .group-container{
     width: auto;
