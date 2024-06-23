@@ -71,10 +71,10 @@ h2{
     text-align: center;
     margin: 2px;
 }
-.ganador{
+.table-container table tr.ganador{
     background-color: rgb(17, 151, 17);
 }
-.perdedor{
+.table-container table tr.perdedor{
     background-color: rgb(205, 103, 103);
 }
 /** fechas **/
